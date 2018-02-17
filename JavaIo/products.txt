@@ -1,0 +1,40 @@
+Laptop 4 laptop lg 545.0 koko true
+Mango 10 food kivi 4.0 ololo true
+Phone  Sim  Baltcom 4343 phone apple 43423.0 gr true
+Tomato 43 food ikea 54.0 olololo false
+Laptop 4 laptop lg 545.0 koko true
+Mango 10 food kivi 4.0 ololo true
+Phone  Sim  Baltcom 4343 phone apple 43423.0 gr true
+Tomato 43 food ikea 54.0 olololo false
+Laptop 4 laptop lg 545.0 koko true
+Mango 10 food kivi 4.0 ololo true
+Phone  Sim  Baltcom 4343 phone apple 43423.0 gr true
+Tomato 43 food ikea 54.0 olololo false
+Laptop 4 laptop lg 545.0 koko true
+Mango 10 food kivi 4.0 ololo true
+Phone  Sim  Baltcom 4343 phone apple 43423.0 gr true
+Tomato 43 food ikea 54.0 olololo false
+Laptop 4 laptop lg 545.0 koko true
+Mango 10 food kivi 4.0 ololo true
+Phone  Sim  Baltcom 4343 phone apple 43423.0 gr true
+Tomato 43 food ikea 54.0 olololo false
+Laptop 4 laptop lg 545.0 koko true
+Mango 10 food kivi 4.0 ololo true
+Phone  Sim  Baltcom 4343 phone apple 43423.0 gr true
+Tomato 43 food ikea 54.0 olololo false
+Laptop 4 laptop lg 545.0 koko true
+Mango 10 food kivi 4.0 ololo true
+Phone  Sim  Baltcom 4343 phone apple 43423.0 gr true
+Tomato 43 food ikea 54.0 olololo false
+Laptop 4 laptop lg 545.0 koko true
+Mango 10 food kivi 4.0 ololo true
+Phone  Sim  Baltcom 4343 phone apple 43423.0 gr true
+Tomato 43 food ikea 54.0 olololo false
+Laptop 4 laptop lg 545.0 koko true
+Mango 10 food kivi 4.0 ololo true
+Phone  Sim  Baltcom 4343 phone apple 43423.0 gr true
+Tomato 43 food ikea 54.0 olololo false
+Laptop 4 laptop lg 545.0 koko true
+Mango 10 food kivi 4.0 ololo true
+Phone  Sim  Baltcom 4343 phone apple 43423.0 gr true
+Tomato 43 food ikea 54.0 olololo false

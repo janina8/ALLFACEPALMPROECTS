@@ -1,0 +1,3 @@
+Cat{name=Vasya}
+Cat{name=Petya}
+Cat{name=Kura}
